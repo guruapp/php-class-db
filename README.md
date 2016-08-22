@@ -1,5 +1,3 @@
-# php-class-db
-
 <?Php
 
 class DbC 
